@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Graph Tutorial</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="naechster_termin">Nächster Termin:</string>
+    <string name="zeitraum">Zeitraum:</string>
+    <string name="verantwortlicher">Verantwortlicher:</string>
+    <string name="ereignis">Ereignis:</string>
+    <string name="aktueller_termin">Aktueller Termin:</string>
+    <string name="ende">Ende:</string>
+    <string name="beginn">Beginn:</string>
+    <string name="keine_termine">Keine Termine mehr!</string>
+    <string name="willkommen">Willkommen!</string>
+    <string name="login_please">Bitte loggen Sie sich ein</string>
+    <string name="login_button_text">Einloggen</string>
+
+    <string name="error_subject">Bitte gib ein Konferenzthema an</string>
+    <string name="error_end">Das Ende der Konferenz muss nach dem Beginn liegen</string>
+    <string name="subject">Thema:</string>
+    <string name="attendees">Teilnehmer:</string>
+    <string name="separate_multiple_entries_with">Bitte trenne mehrere Teilnehmer mit \';\'</string>
+    <string name="body">Zusätzliche Informationen:</string>
+    <string name="create">Termin erstellen</string>
+    <string name="event_created">Termin erstellt</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="example_EventStart">01.09.2021 10:00</string>
+    <string name="example_EventEnd">01.09.2021 10:30</string>
+    <string name="organisator">Organisator:</string>
+    <string name="example_organizer">Max Mustermann</string>
+    <string name="example_subject">Beispiel Termin</string>
+    <string name="roomFree">Frei</string>
+    <string name="roomOccupied">Besetzt</string>
+    <string name="loginRequest">Bitte loggen Sie sich ein</string>
+    <string name="login_button">Login Button</string>
+    <string name="refresh">Aktualisiere die Ansicht</string>
+    <string name="log_out">Log out</string>
+    <string name="new_event">neuen Termin hinzufügen</string>
+    <string name="close">Schließen</string>
+</resources>
